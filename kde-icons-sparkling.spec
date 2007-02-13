@@ -2,7 +2,7 @@
 %define         _name sparkling
 
 Summary:	KDE icons - %{_name}
-Summary(pl.UTF-8):   Motyw ikon do KDE - %{_name}
+Summary(pl.UTF-8):	Motyw ikon do KDE - %{_name}
 Name:		kde-icons-%{_name}
 Version:	0.5
 Release:	1
